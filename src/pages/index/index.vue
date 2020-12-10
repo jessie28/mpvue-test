@@ -8,8 +8,6 @@
             <van-grid :border="true" icon-size="32px">
                 <van-grid-item icon="photo-o" text="文字" @click="clickHandle"/>
                 <van-grid-item icon="photo-o" text="文字" />
-                <van-grid-item icon="photo-o" text="文字" />
-                <van-grid-item icon="photo-o" text="文字" />
             </van-grid>
         </div>
         <div class="box">
